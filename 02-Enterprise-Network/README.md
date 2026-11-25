@@ -133,7 +133,7 @@ Commands and screenshots are in [docs/04-verification-testing.md](docs/04-verifi
 
 ## Credits
 
-Built by following [this tutorial](https://youtu.be/RvPR2BeqwLw) and then documented and extended by **[Your Name]**.
+Built by following [this tutorial](https://youtu.be/RvPR2BeqwLw) and then documented and extended by **[Sir Felix]**.
 
 ## License
 
