@@ -3,6 +3,7 @@
        alt="ATIKA Network Engineering"
        width="100%">
 </p>
+
 # Two-Building Enterprise Network: Cisco Packet Tracer
 
 A redundant, segmented enterprise network for a company with a **Headquarters (Building 1)** and a **Branch Office (Building 2)**, each hosting **HR, Sales and Finance** users. Built and tested in Cisco Packet Tracer.
