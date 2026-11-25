@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Packet-Tracer/enterprise-network-banner.png"
+  <img src="banners/enterprise-network-banner.png"
        alt="ATIKA Network Engineering"
        width="100%">
 </p>
