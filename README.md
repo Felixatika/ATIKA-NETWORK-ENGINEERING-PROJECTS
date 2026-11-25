@@ -1,10 +1,11 @@
+# 🌐 
 <p align="center">
   <img src="network-engineering-banner.png"
        alt="ATIKA Network Engineering"
        width="100%">
 </p>
 
-# 🌐 ATIKA | NETWORK ENGINEERING PORTFOLIO
+
 ### Designing Networks. Connecting Systems. Solving Real-World Problems.
 
 Welcome to my Network Engineering Portfolio!
